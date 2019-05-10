@@ -6,6 +6,10 @@
 * erika.bayler@gmail.com
 * (720) 979-4784
 
+#### Link to my portfolio:
+
+* https://ebayler.github.io/
+
 #### Projects Included:
 
 * https://ebayler.github.io/Team7/
